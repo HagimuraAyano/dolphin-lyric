@@ -1,12 +1,20 @@
 {
-  "name": "lyric",
+  "name": "dolphin-lyric",
   "version": "1.0.0",
   "description": "lyric parser for dolphin",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HagimuraAyano/dolphin-lyric.git"
+  },
   "author": "ayano",
   "license": "MIT",
-  "repository": {
-    "url": "https://github.com/HagimuraAyano/dolphin-lyric",
+  "bugs": {
+    "url": "https://github.com/HagimuraAyano/dolphin-lyric/issues"
   },
+  "homepage": "https://github.com/HagimuraAyano/dolphin-lyric#readme",
   "private": true
 }
