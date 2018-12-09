@@ -1,0 +1,12 @@
+{
+  "name": "lyric",
+  "version": "1.0.0",
+  "description": "lyric parser for dolphin",
+  "main": "index.js",
+  "author": "ayano",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/HagimuraAyano/dolphin-lyric",
+  },
+  "private": true
+}
